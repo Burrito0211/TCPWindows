@@ -12,4 +12,6 @@ add_executable (TCPWindowsClient
 		src/encoder.h src/encoder.cpp
 		src/main.cpp)
 
+make sure to do that
+
 # TODO: 新增測試，並視需要安裝目標。
